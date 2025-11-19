@@ -1,3 +1,3 @@
 # hyprland-rice
 
-hypr
+hyprland
